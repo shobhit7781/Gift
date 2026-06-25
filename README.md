@@ -45,7 +45,7 @@ This is a self-contained single-file app. No build tools, no npm, no dependencie
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/your-username/birthday-registry.git
+git clone https://github.com/shobhit7781/birthday-registry.git
 cd birthday-registry
 ```
 
